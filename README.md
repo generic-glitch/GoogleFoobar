@@ -7,6 +7,7 @@ My solutions to my current foobar journey.
 - Level 2 [100%]
 - - Knight Moves 
 - - Sorting Plates
-- Level 3 [66%]
+- Level 3 [100%]
 - - Fuel Injection Perfection
 - - The Grandest Staircase
+- - Prepare The Bunnies' Escape!
