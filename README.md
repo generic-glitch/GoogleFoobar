@@ -11,3 +11,6 @@ My solutions to my current foobar journey.
 - - Fuel Injection Perfection
 - - The Grandest Staircase
 - - Prepare The Bunnies' Escape!
+
+# That's it for now!
+I'm taking a break from Google Foobar due to completing level 3. Completing level 3 means I am finally able to be recruited. Until I really do plan to be recruited, I won't be posting any more challenges.
