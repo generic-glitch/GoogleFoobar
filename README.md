@@ -7,5 +7,5 @@ My solutions to my current foobar journey.
 - Level 2 [100%]
 - - Knight Moves 
 - - Sorting Plates
-- Level 3 [100%]
+- Level 3 [33%]
 - - Fuel Injection Perfection
